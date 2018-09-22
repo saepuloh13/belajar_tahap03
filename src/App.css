@@ -44,7 +44,7 @@ margin-right: 9px;
 padding: 3px 0px;
 }
 
-#btm{
+#btn{
   background: #4267b2;
   border: 1px solid #29487d;
   color: white;
@@ -131,6 +131,7 @@ margin-bottom: 10px;
   width: 142px;
   display: block;
   float: left;
+  margin-left: 10px;
 }
 
 #btn2{
