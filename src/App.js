@@ -29,7 +29,7 @@ class App extends Component {
               <input id='txt1' type="text" placeholder="Nama depan" name=" uname " required />
               <input id='txt1' type="text" placeholder="Nama belakang" name=" uname " required />
               <input id='txt2' type="text" placeholder="Nomer seluler atau email" name=" uname " required />
-              <input id='txt2' type="text" placeholder="Kata sandi baru" name=" uname " required />
+              <input id='txt2' type="password" placeholder="Kata sandi baru" name=" psw " required />
               <p>Tanggal Lahir</p>
               <span id="s1">
                 <select className="" name="">
