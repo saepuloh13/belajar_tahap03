@@ -37,11 +37,11 @@
   margin-right: 12px;
 }
 
-#txtb {
+.txtb {
 border: 1px solid;
 width: 150px;
-margin-right: 9px;
-padding: 3px 0px;
+margin-right: 6px;
+padding: 3px 3px;
 }
 
 #btn{
